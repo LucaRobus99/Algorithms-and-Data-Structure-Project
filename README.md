@@ -26,7 +26,7 @@ Implementation of an optimized sorting strategy that combines **Merge Sort** and
 
 Implementation of a **Skip List**, a probabilistic data structure that provides efficient search and update operations.
 
-* **The Structure:** A multi-layered linked list that allows "skipping" over elements, achieving an average time complexity of ****.
+* **The Structure:** A multi-layered linked list that allows "skipping" over elements, achieving an average time complexity of $O(\log n)$.
 * **Application:** The Skip List is used to load a dictionary of valid Italian words. The system then processes a text file to identify and report spelling errors.
 * **Scaling Analysis:** Evaluation of search performance as the dictionary size grows.
 
