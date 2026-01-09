@@ -56,6 +56,12 @@ An advanced graph-based application focused on Minimum Spanning Forests (MSF).
 
 ---
 
+## 👥 Contributors
+
+* **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
+* **Luca Robustelli** (Me)
+---
+
 ## 🏛 Academic Context
 
 This project was developed as part of the **Algorithms and Data Structures** course at the **University of Turin (Università degli Studi di Torino)**.
